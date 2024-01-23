@@ -116,3 +116,7 @@ python run.py --datasets ceval_gen --hf-path /share/temp/model_repos/internlm-ch
 ```
 #### 主观测评
 需要对另一个模型对结果进行测评，因此需要两个.py文件
+
+参考资料：
+https://github.com/InternLM/tutorial/blob/main/opencompass/opencompass_tutorial.md
+https://www.bilibili.com/video/BV1Gg4y1U7uc/?spm_id_from=333.999.0.0&vd_source=1451efee9af1bf2214b4d072f5760564
